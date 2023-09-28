@@ -1,6 +1,6 @@
 {
-    "name": "carlos-mg89/oauth",
-    "description": "PHP 7.2 oAuth 1/2 Library",
+    "name": "berzileux/oauth",
+    "description": "Forked library PHP 7.2 oAuth 1/2 Library",
     "keywords": ["oauth", "authentication", "authorization", "security"],
     "license": "MIT",
     "authors": [

@@ -67,7 +67,9 @@ class StreamClient extends AbstractClient
                 );
             }
 
-            throw new TokenResponseException($lastError['message']);
+            //we opt to throw a more verbose error, for tracibility
+            //throw new TokenResponseException($lastError['message']);
+            throw new TokenResponseException(implode(" ",$lastError));
         }
 
         return $response;

@@ -1,5 +1,5 @@
 {
-    "name": "berzileux/oauth",
+    "name": "bearlab/oauth",
     "description": "Forked PHP 7.2 oAuth 1/2 Library",
     "keywords": ["oauth", "authentication", "authorization", "security"],
     "license": "MIT",
